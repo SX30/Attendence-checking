@@ -1,0 +1,2 @@
+0 you have student card
+1 you do not have student card
